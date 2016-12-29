@@ -1,1 +1,3 @@
+This functionality allows the user to do a scan of the Bluetooth devices in the surroundings at the current location where the user is and to store results of the scans (i.e., the findings), and to retrieve and view that information later.
+User can view the available Bluetooth at the current location as well as the Bluetooth scans results from previous locations. The application will prompt the user to switch on the Bluetooth first (if not already ON) and then perform the scan.
 
