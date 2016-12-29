@@ -1,1 +1,2 @@
 This functionality enables the user to record indoor locations, instead of using GPS. Have a button “START TRACKING” for the user to start tracking and another button “STOP TRACKING” for the user to stop tracking, to create a history of indoor paths or locations visited by the user. 
+The app will do a Wi-Fi triangulation by obtaining a list of nearby access points and recording their SSID, and then it will highlight the room that contain these Aps with the given SSIDs.
