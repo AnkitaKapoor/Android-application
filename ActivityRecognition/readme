@@ -1,1 +1,1 @@
-
+This functionality enables the user to track the path as the user walks. Have a button “start tracking” for the user to start tracking and another button “stop tracking” for the user to stop tracking. User can click START TRACKING button and start walking and clicks STOP TRACKING button once reached at destination. Then user can view the path as the user walked.
