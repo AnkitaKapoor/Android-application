@@ -22,7 +22,3 @@ InfoGo functionalities:
 6- Picture Taking: It allows the user to take pictures and store them in a database, it also allows them to edit the description of these pictures. Additionally, the user can view their previously taken pictures either on a list, or on a map.
 7- Activity Recognition: It tracks the user's movement and draw a line between the location where they started walking and the location the finished walking at. It also shows if the user is on foot or not.
 8- Indoor Tracking: using wifi tringulation, the app can determine the location of the user inside a given building (BG building) and displays it on the screen.
-
-
-Ibrahim Habbal - 17503372
-Ankita Kapoor - 18358877
