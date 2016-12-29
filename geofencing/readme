@@ -1,1 +1,1 @@
-
+This functionality enables the user to mark a given place/point as “hot and get notified when s/he is within 100m of any one of the hot spots. When we click on ADD GEOFENCES button, user can view the area on the map that is within 100m of his current location. And that area is stored as hot spot for user and he will get notification whenever he enters or leaves that area. 
