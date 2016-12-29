@@ -1,1 +1,1 @@
-
+This functionality allows the user to collect his GPS location and store it in a database. The user should also be able view previously recorded locations on a map. When the user clicks the RECORD CURRENT LOCATION button, the current location of the user is shown on the map with the green marker and the places that have been previously visited are marked with red marker on the map. User can click the markers to check their latitudes and longitudes of the places.
