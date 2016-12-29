@@ -3,15 +3,9 @@ This application has been developed using Android Studio v 2.2.2 and tested usin
 	2- Nexus 7 Tablet Android API 22
 	3- Samsung J1 Phone Android API 20
 
-To run this application, follow these instructions:
-1- Extract infoGo.zip to a new folder
-2- On Android Studio, go to File, New, Import Project.
-3- Select the new extracted infoGo
-4- After the gradle building is done, make sure to have an android device ready
-5- Make sure that the Developer Mode is on, and the USB Debugging is turned on
-6- Run the application
-7- Make sure the device is connected to the internet 
-8- Sign up/Sign in and Enjoy!
+
+
+Info-Go application enables its user to collect information as s/he goes around and to create logs about spots/places s/he has been to. When a user is standing at a certain spot or at a certain point (as identified by a pair of GPS coordinates), the user can use the app to initiate collection of a range of information at that place. Info-Go application have a user interface that supports multiple device sizes including a smartphone and a tablet (landscape and portrait orientations). We have used Master/Detail Flow template.
 
 InfoGo functionalities:
 1- Record Current Location: allows user to store their current location in a database, and view their previosly recorded places.
@@ -22,3 +16,13 @@ InfoGo functionalities:
 6- Picture Taking: It allows the user to take pictures and store them in a database, it also allows them to edit the description of these pictures. Additionally, the user can view their previously taken pictures either on a list, or on a map.
 7- Activity Recognition: It tracks the user's movement and draw a line between the location where they started walking and the location the finished walking at. It also shows if the user is on foot or not.
 8- Indoor Tracking: using wifi tringulation, the app can determine the location of the user inside a given building (BG building) and displays it on the screen.
+
+To run this application, follow these instructions:
+1- Extract infoGo.zip to a new folder
+2- On Android Studio, go to File, New, Import Project.
+3- Select the new extracted infoGo
+4- After the gradle building is done, make sure to have an android device ready
+5- Make sure that the Developer Mode is on, and the USB Debugging is turned on
+6- Run the application
+7- Make sure the device is connected to the internet 
+8- Sign up/Sign in and Enjoy!
